@@ -1,0 +1,12 @@
+#folders to be ignored
+ignore/
+
+#files to be ignored
+_*
+
+#archives to be ignored
+*.tgz
+*.tar
+*.gzip
+*.gz
+*.7z
